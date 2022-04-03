@@ -10,9 +10,9 @@ Case:     ValueTop Mania X3 $42
 PSU:      Corsair CV450 450W 80+ Bronze certified PSU $45
 ```
 
-#Hackintosh
+# Hackintosh
 
-# macOS Big Sur + OpenCore (0.6.9)
+# macOS Big Sur + OpenCore (0.7.8)
 
 - https://dortania.github.io/OpenCore-Desktop-Guide
 
