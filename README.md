@@ -3,7 +3,7 @@
 ```
 Board:    AsRock B460M Pro4 $110
 CPU:      Intel® Core™ i5-10400 $195
-VGA:      Intel UHD Graphics 630 $0
+VGA:      Intel® UHD Graphics 630 $0
 RAM:      Team Vulcan Z DDR4 8GB 2666MHz $40
 SSD:      Western Digital Blue 500GB SSD WDS500G2B0A $70
 Case:     ValueTop Mania X3 $42
@@ -12,7 +12,7 @@ PSU:      Corsair CV450 450W 80+ Bronze certified PSU $45
 
 # Hackintosh
 
-# macOS Big Sur + OpenCore (0.7.8)
+# macOS Monterey + OpenCore (0.7.9)
 
 - https://dortania.github.io/OpenCore-Desktop-Guide
 
